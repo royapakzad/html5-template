@@ -2,13 +2,13 @@
 
 #narrow {
   float: right;
-  width: 200px;
-  background: lightblue;
+  width: 400px;
+  
 }
 #wide {
   float: left;
-  width: 300px;
-  background: lightblue;
+  width: 400px;
+ 
 }
 
 
