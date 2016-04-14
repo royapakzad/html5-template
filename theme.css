@@ -7,7 +7,7 @@
 }
 #wide {
   float: left;
-  width: calc(100% - 200px);
+  width: 300px;
   background: yellow;
 }
 
