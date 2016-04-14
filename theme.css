@@ -1,5 +1,5 @@
-body {
-    background-color: lightblue;
+
+   
  #wrapper {
     width: 500px;
     border: 1px solid black;}
@@ -9,4 +9,4 @@ body {
 #second {
     border: 1px solid green; }
 
-}
+background-color: lightblue;
