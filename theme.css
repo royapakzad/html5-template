@@ -1,6 +1,5 @@
 
-body {  
- background: lightgreen; }
+
 #narrow {
   float: right;
   width: 200px;
@@ -9,7 +8,7 @@ body {
 #wide {
   float: left;
   width: calc(100% - 200px);
-  background: ligthyellow;
+  background: yellow;
 }
 
 
