@@ -1,13 +1,15 @@
 
-body {   
- #wrapper {
-    width: 500px;
-    border: 1px solid black;}
-#first {
-    width: 300px;
-    border: 1px solid red;}
-#second {
-    border: 1px solid green; }
-
-background-color: lightblue;
+body {  
+ background: lightgreen; }
+#narrow {
+  float: right;
+  width: 200px;
+  background: lightblue;
 }
+#wide {
+  float: left;
+  width: calc(100% - 200px);
+  
+}
+
+
